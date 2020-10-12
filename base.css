@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+    font-size: 80%;
+    font-family: cursive;
+    line-height: 1.6;
+    color: cadetblue;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+}
